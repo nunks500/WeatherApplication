@@ -33,9 +33,6 @@ If the standard user, tries to access the URL the admin uses to add the data, he
 ![alt text](https://raw.githubusercontent.com/nunks500/WeatherApplication/master/github_readme_pics/admininsert.PNG)
 
 When the admin needs to login he just inserts the login combination. Then he is prompted to insert data with the following fields.
-
-![alt text](https://raw.githubusercontent.com/nunks500/WeatherApplication/master/github_readme_pics/admininsert.PNG)
-
 However, if he does respect or fill all of the fields required the following message appears
 
 ![alt text](https://raw.githubusercontent.com/nunks500/WeatherApplication/master/github_readme_pics/adminnull.PNG)
